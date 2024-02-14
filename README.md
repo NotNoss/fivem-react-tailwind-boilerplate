@@ -207,4 +207,4 @@ yarn build
 
 ## Additional Notes
 
-Need further support? Join our [Discord](https://discord.com/invite/HYwBjTbAY5)!
+This was created based on the project by Project Error. I am not a web developer so if you find a better way of doing something, please feel free to submit a PR.
